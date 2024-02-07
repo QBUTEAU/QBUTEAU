@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/quentinbto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quentinbto_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/quentin buteau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin buteau" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quentin-buteau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin-buteau" height="30" width="40" /></a>
 <a href="https://instagram.com/quentin.bto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quentin.bto" height="30" width="40" /></a>
 <a href="https://www.behance.net/qbuteau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="qbuteau" height="30" width="40" /></a>
 </p>
