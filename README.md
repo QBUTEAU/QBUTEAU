@@ -19,9 +19,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 🌐 Mes réseaux sociaux :
-![Twitter or X](https://img.shields.io/twitter/follow/:quentinbto_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/quentin.bto/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/qbuteau) 
+![Twitter or X](https://img.shields.io/twitter/follow/:quentinbto_) |
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/quentin.bto/) |
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/qbuteau) |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-buteau)
 
 ## 📊 Mes statistiques GitHub :
