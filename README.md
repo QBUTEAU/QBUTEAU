@@ -1,5 +1,5 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Développeur+Front+Junior.&font=Fira%20Code&center=true&width=430&height=50&duration=3000&pause=1000" alt="defilement-qbuteau">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Développeur+Front+Junior.&font=Outfit%25Code&center=true&width=430&height=50&duration=3000&pause=1000" alt="defilement-qbuteau">
 </h1>
 
 ## 💻 Mes compétences :
