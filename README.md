@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Développeur+Front-End+Junior.&font=Outfit%35Code&center=true&width=450&height=50&duration=3000&pause=1000" alt="defilement-qbuteau" width="600" height="75">
 </h1>
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23070e13?style=for-the-badge&logo=portfolio&logoColor=white)](http://qbuteau.fr/portfolio)
+
 ## 💻 Mes compétences :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
