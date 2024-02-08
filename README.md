@@ -27,6 +27,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 ## 🌐 Mes réseaux sociaux :
+[![Twitter Badge](https://img.shields.io/badge/twitter-quentinbto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinbto_)
+
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinbto_)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin.bto/)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-buteau/)
