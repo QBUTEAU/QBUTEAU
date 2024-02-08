@@ -23,6 +23,7 @@
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinbto_)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin.bto/)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-buteau/)
+[![Behance Badge](https://img.shields.io/badge/behance-%231877F2.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/qbuteau)
 
 ## 📊 Mes statistiques GitHub :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qbuteau&show_icons=true&locale=en&layout=compact" alt="qbuteau" /></p>
