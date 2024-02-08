@@ -28,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qbuteau&show_icons=true&locale=en&layout=compact" alt="qbuteau" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qbuteau&show_icons=true&locale=en" alt="qbuteau" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qbuteau&" alt="qbuteau" /></p>
-![](https://github-profile-trophy.vercel.app/?username=QBUTEAU&no-frame=false&no-bg=true&margin-w=4)
