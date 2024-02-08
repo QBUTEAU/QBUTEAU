@@ -32,7 +32,7 @@
   <br><br>
   ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Edupython Badge](https://img.shields.io/badge/Edupython-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+  ![Edupython Badge](https://img.shields.io/badge/Edupython-006400?style=for-the-badge&logo=python&logoColor=white)
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Symfony Badge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
   ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
