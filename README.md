@@ -2,7 +2,7 @@
 ### 👦🏻 Quentin Buteau - Développer Front-End Junior
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+Développeur+Front+Junior.&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1000" alt="defilement-qbuteau">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Développeur+Front+Junior.&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1000" alt="defilement-qbuteau">
 </p>
 
 ## 💻 Mes compétences :
