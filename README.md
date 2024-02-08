@@ -1,7 +1,7 @@
-#👋 Bienvenue sur mon GitHub !
-###👦🏻 Quentin Buteau - Développer Front-End Junior
+# 👋 Bienvenue sur mon GitHub !
+### 👦🏻 Quentin Buteau - Développer Front-End Junior
 
-##💻 Mes compétences :
+## 💻 Mes compétences :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,9 +18,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-##🌐 Mes réseaux professionnels :
+## 🌐 Mes réseaux professionnels :
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/qbuteau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-buteau)
 
-##📊 Mes statistiques GitHub :
+## 📊 Mes statistiques GitHub :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qbuteau&show_icons=true&locale=en&layout=compact" alt="qbuteau" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qbuteau&show_icons=true&locale=en" alt="qbuteau" /></p>
