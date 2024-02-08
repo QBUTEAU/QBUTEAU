@@ -2,9 +2,10 @@
 ### 👦🏻 Quentin Buteau - Développer Front-End Junior
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;Je+suis+Developpeur+Front+Junior.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="defilement-qbuteau">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Developpeur+Front+Junior.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="defilement-qbuteau">
 </p>
 
+<p align="center">
 ## 💻 Mes compétences :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -21,6 +22,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+</p>
 
 ## 🌐 Mes réseaux sociaux :
 ![Twitter or X](https://img.shields.io/twitter/follow/:quentinbto_) -
