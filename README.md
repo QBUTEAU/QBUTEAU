@@ -16,21 +16,21 @@
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-4479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 <br><br>
-![Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) <br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Word Badge](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) <br>
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 ## 🌐 Mes réseaux sociaux :
 [![Twitter Badge](https://img.shields.io/badge/twitter-quentinbto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinbto_)
 [![Instagram Badge](https://img.shields.io/badge/instagram-quentin.bto-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin.bto/)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-Quentin_Buteau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-buteau/)
-[![Behance Badge](https://img.shields.io/badge/behance-Quentin_Buteau-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/qbuteau)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-Quentin%20Buteau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-buteau/)
+[![Behance Badge](https://img.shields.io/badge/behance-Quentin%20Buteau-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/qbuteau)
 ![Discord Badge](https://img.shields.io/badge/Discord-quentin.bto-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 Mes statistiques GitHub :
