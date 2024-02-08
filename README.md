@@ -34,5 +34,6 @@
 ![Discord Badge](https://img.shields.io/badge/Discord-quentin.bto-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 Mes statistiques GitHub :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qbuteau&show_icons=true&locale=en&layout=compact" alt="qbuteau" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qbuteau&show_icons=true&locale=en" alt="qbuteau" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qbuteau&show_icons=true&locale=en&layout=compact" alt="qbuteau" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=qbuteau&show_icons=true&locale=en" alt="qbuteau" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=QBUTEAU" alt="qbuteau"/></p>
