@@ -19,7 +19,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 🌐 Mes réseaux professionnels :
-[![Twitter or X](https://img.shields.io/badge/twitter)](https://twitter.com/quentinbto_)
+[![Twitter or X](https://img.shields.io/twitter/follow/:quentinbto_)]
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/qbuteau) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-buteau)
 
