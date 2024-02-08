@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Développeur+Front-End+Junior.&font=Outfit%35Code&center=true&width=450&height=50&duration=3000&pause=1000" alt="defilement-qbuteau" width="600" height="75">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+Quentin+Buteau;et+je+suis+Développeur+Front-End+Junior.&font=Outfit%35Code&center=true&width=450&height=50&duration=3000&pause=1000" alt="defilement-qbuteau" width="650" height="90">
 </h1>
 
 <div align="center">
