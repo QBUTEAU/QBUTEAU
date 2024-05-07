@@ -29,11 +29,9 @@
   ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
   <br>
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  <br>
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![ServiceNow](https://img.shields.io/badge/ServiceNow-%2300A6FF.svg?style=for-the-badge&logo=servicenow&logoColor=white)
-  <br>
   ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=for-the-badge&logo=servicenow&logoColor=white)
   <br><br>
   ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
