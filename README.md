@@ -19,7 +19,6 @@
   ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-4479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-  ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF69B4.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white)
   <br><br>
   ![Word Badge](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
   ![PowerPoint Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -38,10 +37,10 @@
   ![Edupython Badge](https://img.shields.io/badge/Edupython-006400?style=for-the-badge&logo=python&logoColor=white)
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Symfony Badge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+  ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF69B4.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white)
   ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
   ![WebDev](https://img.shields.io/badge/WebDev-%236DB33F?style=for-the-badge&logo=webdev)
-![WLanguage](https://img.shields.io/badge/WLanguage-%23FF8000?style=for-the-badge&logo=wlanguage)
+  ![WLanguage](https://img.shields.io/badge/WLanguage-%23FF8000?style=for-the-badge&logo=wlanguage)
 
   
   ## 🌐 Mes réseaux sociaux :
