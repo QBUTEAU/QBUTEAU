@@ -31,7 +31,7 @@
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=for-the-badge&logo=servicenow&logoColor=white)
+  ![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=4CAF50)
   <br><br>
   ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
