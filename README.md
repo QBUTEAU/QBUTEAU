@@ -39,8 +39,8 @@
   ![Symfony Badge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
   ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF69B4.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white)
   ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![WebDev](https://img.shields.io/badge/WebDev-%236DB33F?style=for-the-badge&logo=webdev)
-  ![WLanguage](https://img.shields.io/badge/WLanguage-%23FF8000?style=for-the-badge&logo=wlanguage)
+  ![WebDev](https://img.shields.io/badge/WebDev-%232CA1F2?style=for-the-badge&logoColor=white)
+  ![WLanguage](https://img.shields.io/badge/WLanguage-%23FF8000?style=for-the-badge&logoColor=white)
 
   
   ## 🌐 Mes réseaux sociaux :
