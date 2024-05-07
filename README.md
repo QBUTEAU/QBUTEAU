@@ -39,6 +39,10 @@
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Symfony Badge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
   ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+  ![WebDev](https://img.shields.io/badge/WebDev-%236DB33F?style=for-the-badge&logo=webdev)
+![WLanguage](https://img.shields.io/badge/WLanguage-%23FF8000?style=for-the-badge&logo=wlanguage)
+
   
   ## 🌐 Mes réseaux sociaux :
   [![Twitter Badge](https://img.shields.io/badge/twitter-quentinbto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinbto_)
