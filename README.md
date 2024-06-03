@@ -45,11 +45,11 @@
 
   
   ## 🌐 Mes réseaux sociaux :
-  [![Twitter Badge](https://img.shields.io/badge/twitter-quentinbto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinbto_)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-quentin.bto-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin.bto/)
-  [![LinkedIn Badge](https://img.shields.io/badge/linkedin-Quentin%20Buteau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-buteau/)
-  [![Behance Badge](https://img.shields.io/badge/behance-Quentin%20Buteau-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/qbuteau)
-  ![Discord Badge](https://img.shields.io/badge/Discord-quentin.bto-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Twitter Badge](https://img.shields.io/badge/twitter-quentinbto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logo=twitter)](https://twitter.com/quentinbto_)
+[![Instagram Badge](https://img.shields.io/badge/instagram-quentin.bto-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin.bto/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-Quentin%20Buteau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-buteau/)
+[![Behance Badge](https://img.shields.io/badge/behance-Quentin%20Buteau-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/qbuteau)
+![Discord Badge](https://img.shields.io/badge/Discord-quentin.bto-7289DA?style=for-the-badge&logo=discord&logoColor=white)
   
   ## 📊 Mes statistiques GitHub :
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qbuteau&show_icons=true&locale=en&layout=compact" alt="qbuteau" /></p>
