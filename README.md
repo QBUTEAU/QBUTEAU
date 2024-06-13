@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=QBUTEAU&style=for-the-badge$color=red$label=VUES+DE+PROFIL)
+  ![](https://komarev.com/ghpvc/?username=QBUTEAU&style=for-the-badge&color=red&label=VUES+DE+PROFIL&abbreviated=true)
 
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23E12319?style=for-the-badge&logo=portfolio&logoColor=white)](http://qbuteau.fr)
   [![Linktree Badge](https://img.shields.io/badge/Linktree-%23E12319?style=for-the-badge&logo=portfolio&logoColor=white)](http://qbuteau.fr/link)
