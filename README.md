@@ -4,7 +4,8 @@
 
 <div align="center">
 
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23E12319?style=for-the-badge&logo=portfolio&logoColor=white)](http://qbuteau.fr/portfolio)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23E12319?style=for-the-badge&logo=portfolio&logoColor=white)](http://qbuteau.fr)
+  [![Linktree Badge](https://img.shields.io/badge/Linktree-%23E12319?style=for-the-badge&logo=portfolio&logoColor=white)](http://qbuteau.fr/link)
   
   ## 💻 Mes compétences :
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
